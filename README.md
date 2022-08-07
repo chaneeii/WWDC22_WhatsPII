@@ -22,11 +22,12 @@ In this app, you can easily learn how to distinguish PII data while finding and 
  
 | Learn About PII 	| Take a Quiz 	| Get Results |
 |--------------------	|-------------	|------------------	|
-| <img width="250" src="https://user-images.githubusercontent.com/63157395/183291450-1af553e9-0ff2-4704-b26b-2441f0b0cbc9.gif" /> | <img width="250" src="https://user-images.githubusercontent.com/63157395/183291480-9b0e1381-8469-4215-bc6a-528311c573f1.gif" /> | <img width="250" src="https://user-images.githubusercontent.com/63157395/183291235-689c8a3d-935e-4ed9-bcd0-ee0b6e191602.png" /> |
+| <img width="250" src="https://user-images.githubusercontent.com/63157395/183291450-1af553e9-0ff2-4704-b26b-2441f0b0cbc9.gif" /> | <img width="250" src="https://user-images.githubusercontent.com/63157395/183292355-f6916178-f3df-41f9-978e-54bb86d588bb.gif" /> | <img width="250" src="https://user-images.githubusercontent.com/63157395/183291235-689c8a3d-935e-4ed9-bcd0-ee0b6e191602.png" /> |
 
 
+<br/>
+## Requirements 
 
-## Requirements
 What's PII is designed and developed for
 - `iPad`
 - `iPhone`
