@@ -18,18 +18,21 @@ As Information technology has come a long way over the past few years, the value
 In this app, you can easily learn how to distinguish PII data while finding and hiding PII in various hypothetical situations. (such as sending e-mails, posting on the Internet, etc)
 
 
-<!-- ## ✨ Features
+ ## ✨ Features
+ 
+| Learn About PII 	| Take a Quiz 	| Get Results |
+|--------------------	|-------------	|------------------	|
+| <img width="300" src="https://user-images.githubusercontent.com/63157395/183291450-1af553e9-0ff2-4704-b26b-2441f0b0cbc9.gif" /> | <img width="300" src="https://user-images.githubusercontent.com/63157395/183291480-9b0e1381-8469-4215-bc6a-528311c573f1.gif" /> | <img width="300" src="https://user-images.githubusercontent.com/63157395/183291235-689c8a3d-935e-4ed9-bcd0-ee0b6e191602.png" /> |
 
 
 
-
-### Learning about what is PII
-
-
-
-### Train 
-
-
-
--->
-
+## Requirements
+What's PII is designed and developed for
+- `iPad`
+- `iPhone`
+ 
+ 
+##🔏 License
+ 
+ 
+ 
