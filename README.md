@@ -32,7 +32,8 @@ What's PII is designed and developed for
 - `iPhone`
  
  
-##🔏 License
- 
+## References
+ - Handbook for Safeguarding Sensitive PII, DHS Privacy Policy Directive 047-01-007
+ - www.pii-tools.com
  
  
