@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# WhatsPII : Mask, Lock and Protect your PII 
+# What's PII : Mask, Lock and Protect your PII 
 
  WWDC22 Swift Student Challenge [Accepted]
 
